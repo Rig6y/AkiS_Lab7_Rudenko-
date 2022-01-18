@@ -1,0 +1,12 @@
+.contentsFlex img {
+    width: 280px;
+    height: 240px;
+  }
+  .contentsFlex {
+    display: flex;
+    background-color: rgb(193, 252, 144);
+    padding: 20px;
+  }
+  .contentsFlex p {
+    margin-left: 20px;
+  }

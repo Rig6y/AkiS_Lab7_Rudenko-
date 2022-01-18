@@ -4,7 +4,7 @@
   }
   .contentsFlex {
     display: flex;
-    background-color: rgba(247, 217, 67, 97);
+    background-color: rgb(236, 212, 90);
     padding: 20px;
   }
   .contentsFlex p {

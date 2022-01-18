@@ -1,6 +1,6 @@
 .headerContainer {
     display: flex;
-    background-color: rgb(224, 213, 49);
+    background-color: rgba(224, 213, 49, 88);
 }
 
 .headerLogo {

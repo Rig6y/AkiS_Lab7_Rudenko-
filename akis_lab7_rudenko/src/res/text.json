@@ -1,33 +1,28 @@
 [
     {
       "id": 1,
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NAMA_Aphrodite_Syracuse.jpg/160px-NAMA_Aphrodite_Syracuse.jpg",
-      "text": "Aphrodite
-      Goddess of beauty, love, desire, and pleasure. In Hesiod's Theogony, she was born from sea-foam and the severed genitals of Uranus; in Homer's Iliad, she is daughter of Zeus and Dione. She was married to Hephaestus, but bore him no children. She had many lovers, most notably Ares, to whom she bore Harmonia, Phobos, and Deimos. She was also a lover to Adonis and Anchises, to whom she bore Aeneas."
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Hades-et-Cerberus-III.jpg",
+      "text": "Hades - King of the underworld and the dead. He is also a god of wealth. His consort is Persephone. His attributes are the drinking horn or cornucopia, key, sceptre, and the three-headed dog Cerberus. His sacred animals include the screech owl. He was one of three sons of Cronus and Rhea, and thus sovereign over one of the three realms of the universe, the underworld. As a chthonic god, however, his place among the Olympians is ambiguous."
     },
     {
       "id": 2,
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ares_Canope_Villa_Adriana_b.jpg/160px-Ares_Canope_Villa_Adriana_b.jpg",
-      "text": "Ares
-      God of courage, war, bloodshed, and violence. The son of Zeus and Hera, he was depicted as a beardless youth, either nude with a helmet and spear or sword, or as an armed warrior. Homer portrays him as moody and unreliable, and as being the most unpopular god on earth and Olympus. He generally represents the chaos of war in contrast to Athena, a goddess of military strategy and skill."
+      "text": "Ares - God of courage, war, bloodshed, and violence. The son of Zeus and Hera, he was depicted as a beardless youth, either nude with a helmet and spear or sword, or as an armed warrior. Homer portrays him as moody and unreliable, and as being the most unpopular god on earth and Olympus. He generally represents the chaos of war in contrast to Athena, a goddess of military strategy and skill."
     },
     {
       "id": 3,
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mattei_Athena_Louvre_Ma530_n2.jpg/160px-Mattei_Athena_Louvre_Ma530_n2.jpg",
-      "text": "Athena
-      Goddess of reason, wisdom, intelligence, skill, peace, warfare, battle strategy, and handicrafts. According to most traditions, she was born from Zeus's forehead, fully formed and armored. She is depicted as being crowned with a crested helm, armed with shield and spear, and wearing the aegis over a long dress."
+      "text": "Athena - Goddess of reason, wisdom, intelligence, skill, peace, warfare, battle strategy, and handicrafts. According to most traditions, she was born from Zeus's forehead, fully formed and armored. She is depicted as being crowned with a crested helm, armed with shield and spear, and wearing the aegis over a long dress. Poets describe her as 'grey-eyed' or having especially bright, keen eyes. She is a special patron of heroes such as Odysseus."
     },
     {
       "id": 4,
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dionysos_Louvre_Ma87_n2.jpg/160px-Dionysos_Louvre_Ma87_n2.jpg",
-      "text": "Dionysus
-      God of wine, fruitfulness, parties, festivals, madness, chaos, drunkenness, vegetation, ecstasy, and the theater. He is the twice-born son of Zeus and Semele, in that Zeus snatched him from his mother's womb and stitched Dionysus into his own thigh and carried him until he was ready to be born. In art he is depicted as either an older bearded god (particularly before 430 BC) or an effeminate, long-haired youth (particularly after 430 BC). His attributes include the thyrsus, a drinking cup, the grape vine, and a crown of ivy. He is often in the company of his thiasos, a group of attendants including satyrs, maenads, and his old tutor Silenus."
+      "text": "Dionysus - God of wine, fruitfulness, parties, festivals, madness, chaos, drunkenness, vegetation, ecstasy, and the theater. He is the twice-born son of Zeus and Semele, in that Zeus snatched him from his mother's womb and stitched Dionysus into his own thigh and carried him until he was ready to be born. In art he is depicted as either an older bearded god (particularly before 430 BC) or an effeminate, long-haired youth (particularly after 430 BC). His attributes include the thyrsus, a drinking cup, the grape vine, and a crown of ivy."
     },
     {
       "id": 5,
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hades-et-Cerberus-III.jpg/160px-Hades-et-Cerberus-III.jpg",
-      "text": "Hades
-      King of the underworld and the dead. He is also a god of wealth. His consort is Persephone. His attributes are the drinking horn or cornucopia, key, sceptre, and the three-headed dog Cerberus. His sacred animals include the screech owl. He was one of three sons of Cronus and Rhea, and thus sovereign over one of the three realms of the universe, the underworld. As a chthonic god, however, his place among the Olympians is ambiguous."
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NAMA_Aphrodite_Syracuse.jpg/160px-NAMA_Aphrodite_Syracuse.jpg",
+      "text": "Aphrodite - Goddess of beauty, love, desire, and pleasure. In Hesiod's Theogony, she was born from sea-foam and the severed genitals of Uranus; in Homer's Iliad, she is daughter of Zeus and Dione. She was married to Hephaestus, but bore him no children. She had many lovers, most notably Ares, to whom she bore Harmonia, Phobos, and Deimos. She was also a lover to Adonis and Anchises, to whom she bore Aeneas. She is usually depicted as a naked or semi-nude beautiful woman."
     }
   ]
   

@@ -6,7 +6,7 @@ class CContents extends Component {
   constructor() {
     super();
     this.state = {
-      msg: "Witaj użytkkowniku. Kliknij przycisk aby poznać wiadomość",
+      msg: "Witaj użytkowniku. Kliknij przycisk aby poznać wiadomość",
     };
     // this.txtData = () => JSON.parse(JSON.stringify(jsonData));
     // const imgContext = require.context(`../res/`, false, /\.jpeg$/);
